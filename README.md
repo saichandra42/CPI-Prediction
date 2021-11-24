@@ -5,3 +5,5 @@ Cost of Basket of goods –
 Housing,  Apparel, Transportation, Education and Communication, Medical Care, Foods and Beverages, 
 Recreation 
 and Other goods and Services.
+
+Exploratory data analysis is in eda.ipynb
